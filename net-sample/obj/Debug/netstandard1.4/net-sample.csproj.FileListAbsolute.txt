@@ -1,0 +1,18 @@
+C:\Users\manyp\Desktop\Sample Repo\net-sample\bin\Debug\netstandard1.4\net-sample.deps.json
+C:\Users\manyp\Desktop\Sample Repo\net-sample\bin\Debug\netstandard1.4\net-sample.dll
+C:\Users\manyp\Desktop\Sample Repo\net-sample\bin\Debug\netstandard1.4\net-sample.pdb
+C:\Users\manyp\Desktop\Sample Repo\net-sample\obj\Debug\netstandard1.4\net-sample.csprojAssemblyReference.cache
+C:\Users\manyp\Desktop\Sample Repo\net-sample\obj\Debug\netstandard1.4\net-sample.csproj.CoreCompileInputs.cache
+C:\Users\manyp\Desktop\Sample Repo\net-sample\obj\Debug\netstandard1.4\net-sample.AssemblyInfoInputs.cache
+C:\Users\manyp\Desktop\Sample Repo\net-sample\obj\Debug\netstandard1.4\net-sample.AssemblyInfo.cs
+C:\Users\manyp\Desktop\Sample Repo\net-sample\obj\Debug\netstandard1.4\net-sample.dll
+C:\Users\manyp\Desktop\Sample Repo\net-sample\obj\Debug\netstandard1.4\net-sample.pdb
+C:\Users\manyp\Desktop\Sample Repo - Copy\net-sample\bin\Debug\netstandard1.4\net-sample.deps.json
+C:\Users\manyp\Desktop\Sample Repo - Copy\net-sample\bin\Debug\netstandard1.4\net-sample.dll
+C:\Users\manyp\Desktop\Sample Repo - Copy\net-sample\bin\Debug\netstandard1.4\net-sample.pdb
+C:\Users\manyp\Desktop\Sample Repo - Copy\net-sample\obj\Debug\netstandard1.4\net-sample.csprojAssemblyReference.cache
+C:\Users\manyp\Desktop\Sample Repo - Copy\net-sample\obj\Debug\netstandard1.4\net-sample.csproj.CoreCompileInputs.cache
+C:\Users\manyp\Desktop\Sample Repo - Copy\net-sample\obj\Debug\netstandard1.4\net-sample.AssemblyInfoInputs.cache
+C:\Users\manyp\Desktop\Sample Repo - Copy\net-sample\obj\Debug\netstandard1.4\net-sample.AssemblyInfo.cs
+C:\Users\manyp\Desktop\Sample Repo - Copy\net-sample\obj\Debug\netstandard1.4\net-sample.dll
+C:\Users\manyp\Desktop\Sample Repo - Copy\net-sample\obj\Debug\netstandard1.4\net-sample.pdb
